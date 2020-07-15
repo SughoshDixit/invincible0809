@@ -84,15 +84,14 @@
 
 
 <a href="https://sughoshdixit.blogspot.com">
-  <img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
+  <img align="center" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
 </a> 
-
 
 
 ### - Youtube ⚡️
 
    <a href="https://www.youtube.com/watch?v=UWUO_3lW8zE&t=4s">
-  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
+  <img align="center" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
 
 <br/>
