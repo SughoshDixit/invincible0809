@@ -58,7 +58,7 @@
 
 **I am Into , 🙏**
 
-**Data Science, Web Development, Competetive Programming & Football, Football and Football 😼**
+**Data Science, Web Development, Competitive Programming & Football, Football and Football 😼**
 <br />
 
 
