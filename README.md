@@ -1,4 +1,4 @@
-###   I'm [Sughosh!](https://sughoshdixit.blogspot.com) This is my official github repository! 😄 Welcome!
+###   I'm [Sughosh!](https://invincible0809.github.io/SughoshDixit/) This is my official github repository! 😄 Welcome!
 
 
 
